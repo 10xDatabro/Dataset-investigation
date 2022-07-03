@@ -19,4 +19,4 @@ The data set used contains information of about 10,000 movies collected from The
 
 ![visualization](visualization.png)
 
-view my notebook [code](https://github.com/GilbertReviews/Investigate-a-Dataset/blob/main/Gilbert_Project_Notebook.ipynb) 
+view my notebook [code](https://github.com/GilbertReviews/Investigate-a-Dataset/blob/main/investigate%20dataset%20project/Project_Notebook.ipynb) 
