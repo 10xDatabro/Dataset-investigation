@@ -16,4 +16,7 @@ The data set used contains information of about 10,000 movies collected from The
 
 > Which genres are most popular from year to year?
 
+
+![visualization](visualization.png)
+
 view my notebook [code](https://github.com/GilbertReviews/Investigate-a-Dataset/blob/main/Gilbert_Project_Notebook.ipynb) 
