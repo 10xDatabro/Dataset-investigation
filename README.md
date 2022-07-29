@@ -1,4 +1,4 @@
-# Investigate-a-Dataset
+# Data anaylsis of a movie dataset 
  This is my submission for Udacity's project on Introduction to Data Analysis.
 
 
