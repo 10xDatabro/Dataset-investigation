@@ -56,7 +56,7 @@ pip install -r requirements.txt
 - Gilbert Adikankwu
 
 ## License
-This project is licensed under the GNU License - see the [LICENSE](https://github.com/10xDatabro/Dataset-investigation/blob/main/LICENSE)
+This project is licensed under the GNU License - see the [LICENSE](https://github.com/10xDatabro/Dataset-investigation/blob/main/LICENSE) for details
 
 ## Acknowledgments
 - Udacity ALX-T Data Analyst Nanodegree
