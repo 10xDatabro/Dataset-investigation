@@ -13,7 +13,7 @@ Over the years the Drama genre has maintained a steady growth. It held the top s
 The lack of sufficient data in the budget hindered my conclusion on the features of popular movies.
 
 ## Key Insights for Presentation
-You can see content on nbviewer: [Jupyter Notebook]()
+You can see content on nbviewer: [Jupyter Notebook](https://nbviewer.org/github/10xDatabro/Dataset-investigation/blob/main/Investigating_TMDb_Movie_dataset.ipynb)
 
 OR download the HTML file in the subdirectory to view the content in the browser on your computer at anytime offline.
 
@@ -24,9 +24,9 @@ OR download the HTML file in the subdirectory to view the content in the browser
 - You need to be able to work in a Jupyter Notebook on your computer
 - You need an installation of Python and the following libraries need to be installed. (You can install these packages via conda or pip)
   * pandas
-	* NumPy
-	* Matplotlib
-	* Seaborn
+  * NumPy
+  * Matplotlib
+  * Seaborn
 
 ### Installing
 These examples tell you how to get a development environment running
@@ -60,3 +60,5 @@ This project is licensed under the GNU License - see the [LICENSE](https://githu
 
 ## Acknowledgments
 - Udacity ALX-T Data Analyst Nanodegree
+
+[^1]:[TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
